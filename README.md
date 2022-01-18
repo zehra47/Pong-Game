@@ -1,2 +1,2 @@
 # Pong-Game
-<img src="pong game.png">
+<img src="pong game.jpg">
